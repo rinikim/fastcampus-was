@@ -1,4 +1,4 @@
-package calculatebyenum;
+package org.example.calculatebyenum;
 
 import java.util.Arrays;
 

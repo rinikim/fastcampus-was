@@ -1,4 +1,4 @@
-package calculatebyinterface;
+package org.example.calculatebyinterface;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package calculatebyinterface;
+package org.example.calculatebyinterface;
 
 public class AdditionOperator implements NewArithmeticOperator {
     @Override
