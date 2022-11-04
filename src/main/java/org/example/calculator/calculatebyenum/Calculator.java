@@ -1,4 +1,4 @@
-package org.example.calculatebyenum;
+package org.example.calculator.calculatebyenum;
 
 public class Calculator {
 

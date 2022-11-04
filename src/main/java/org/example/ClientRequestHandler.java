@@ -1,8 +1,8 @@
 package org.example;
 
 
-import org.example.calculatebyinterface.Calculator;
-import org.example.calculatebyinterface.PositiveNumber;
+import org.example.calculator.calculatebyinterface.Calculator;
+import org.example.calculator.calculatebyinterface.PositiveNumber;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
