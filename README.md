@@ -7,5 +7,5 @@
 - step3 - Thread Pool을 적용해 안정적인 서비스가 가능하도록 한다.
 
 
-**참고**
-10개 프로젝트로 완성하는 백엔드 웹개발(Java/Spring) 초격차 패키지 Online.
+### reference
+패스트캠퍼스 : 10개 프로젝트로 완성하는 백엔드 웹개발(Java/Spring) 초격차 패키지 Online.
